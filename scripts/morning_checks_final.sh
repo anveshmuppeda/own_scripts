@@ -1,7 +1,5 @@
 #!/bin/bash
 
-## Capgemini UK PLC Proprietary and Confidential ##
-## Copyright Capgemini 2020 - All Rights Reserved ##
 
 # Parse input parameters
 NONE='\033[00m'
